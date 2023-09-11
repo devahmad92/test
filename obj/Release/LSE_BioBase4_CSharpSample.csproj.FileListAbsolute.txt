@@ -1,0 +1,17 @@
+D:\vsts-agent\_work\3\a\Win32\Release NoUnitTests\LSE_BioBase4_CSharpSample.exe.config
+D:\vsts-agent\_work\3\a\Win32\Release NoUnitTests\LSE_BioBase4_CSharpSample.exe
+D:\vsts-agent\_work\3\a\Win32\Release NoUnitTests\LSE_BioBase4_CSharpSample.pdb
+D:\vsts-agent\_work\3\s\Applications\LSE_BioBase4_CSharpSample\obj\Release\LSE_BioBase4_CSharpSample.csprojAssemblyReference.cache
+D:\vsts-agent\_work\3\s\Applications\LSE_BioBase4_CSharpSample\obj\Release\LSE_BioBase4_CSharpSample.LED.resources
+D:\vsts-agent\_work\3\s\Applications\LSE_BioBase4_CSharpSample\obj\Release\LSE_BioBase4_CSharpSample.LightPanel.resources
+D:\vsts-agent\_work\3\s\Applications\LSE_BioBase4_CSharpSample\obj\Release\LSE_BioBase4_CSharpSample.LSEConst.resources
+D:\vsts-agent\_work\3\s\Applications\LSE_BioBase4_CSharpSample\obj\Release\LSE_BioBase4_CSharpSample.Properties.Resources.resources
+D:\vsts-agent\_work\3\s\Applications\LSE_BioBase4_CSharpSample\obj\Release\LSE_BioBase4_CSharpSample.UserControlDialog.resources
+D:\vsts-agent\_work\3\s\Applications\LSE_BioBase4_CSharpSample\obj\Release\LSE_BioBase4_CSharpSample.csproj.GenerateResource.cache
+D:\vsts-agent\_work\3\s\Applications\LSE_BioBase4_CSharpSample\obj\Release\LSE_BioBase4_CSharpSample.csproj.CoreCompileInputs.cache
+D:\vsts-agent\_work\3\s\Applications\LSE_BioBase4_CSharpSample\obj\Release\LSE_BioBase4_CSharpSample.csproj.CopyComplete
+D:\vsts-agent\_work\3\s\Applications\LSE_BioBase4_CSharpSample\obj\Release\LSE_BioBase4_CSharpSample.exe
+D:\vsts-agent\_work\3\s\Applications\LSE_BioBase4_CSharpSample\obj\Release\LSE_BioBase4_CSharpSample.pdb
+D:\vsts-agent\_work\3\a\x64\Release NoUnitTests\LSE_BioBase4_CSharpSample.exe.config
+D:\vsts-agent\_work\3\a\x64\Release NoUnitTests\LSE_BioBase4_CSharpSample.exe
+D:\vsts-agent\_work\3\a\x64\Release NoUnitTests\LSE_BioBase4_CSharpSample.pdb
